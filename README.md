@@ -14,8 +14,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [What I Learned](#what-i-learned)
 - [Author](#author)
 
-![screen shot of my solution](images/image.png)
-
 ## Overview
 
 ### The Challenge
@@ -27,10 +25,14 @@ Users should be able to:
 - Navigate through a fully accessible mobile menu
 - Experience smooth animations and transitions
 
+### Screenshot
+
+![screenshot of my solution](images/image.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [My solution on frontend mentor](https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-tailwindcss-and-advanced-animations-c3_BBfDGRg)
+- Live Site URL: [live site](https://qs3h.github.io/Loopstudios-landing-page/)
 
 ## My Process
 
