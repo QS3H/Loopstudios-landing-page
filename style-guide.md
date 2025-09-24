@@ -17,10 +17,6 @@ The designs were created to the following widths:
 - Black: hsl(0, 0%, 0%)
 - Grey 200: hsl(0, 0%, 85%)
 
-### Neutral
-
-## Typography
-
 ### Body Copy
 
 - Font size: 15px
@@ -40,5 +36,3 @@ We provide the required social icons. But, if you prefer, you can use a font ico
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
